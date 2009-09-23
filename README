@@ -1,4 +1,18 @@
-== Welcome to Rails
+== BuildingWebApps
+
+This is my results of participating in the Learning Rails Online Course which
+was written and produced by Michael Slater and Christopher Haupt, who run 
+BuildingWebApps.com
+
+This course was originally written using Ruby 1.8.6 and Rails 2.01 and other
+plugin resources supported by SVN repositories which no longer exist. I was
+able to keep the code running by occasionally resorting to copying from the
+companion files that were available along with the course.
+
+This is still a W.I.P, and any contributions or suggestions are more than 
+welcome.
+
+== Rails
 
 Rails is a web-application and persistence framework that includes everything
 needed to create database-backed web-applications according to the
